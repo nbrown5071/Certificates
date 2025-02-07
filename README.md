@@ -5,11 +5,7 @@ Here you can find proof of the programs I have completed. In 2025 I decided to l
 ### Program: Udacity 
 ### Year: 2024
 ### Skills: 
-• SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions
-
-• Tableau visualizations • Data storytelling • Tableau interactive dashboards • Tableau calculated fields • Data visualization design
-
-• Business KPIs • Basic descriptive statistics • Spreadsheet functions • Quantitative data visualization • Forecast modeling in spreadsheets • Data visualization  • Data validation in spreadsheets • Pivot tables • Categorical data visualization • Inferential statistics • Chart types • Sales metrics • Growth metrics • Finance metrics
+• SQL aggregations • SQL joins • SQL queries • SQL subqueries • SQL window functions • Tableau visualizations • Data storytelling • Tableau interactive dashboards • Tableau calculated fields • Data visualization design • Business KPIs • Basic descriptive statistics • Spreadsheet functions • Quantitative data visualization • Forecast modeling in spreadsheets • Data visualization  • Data validation in spreadsheets • Pivot tables • Categorical data visualization • Inferential statistics • Chart types • Sales metrics • Growth metrics • Finance metrics
 
 ## [Business Intelligence Analytics](https://github.com/nbrown5071/Certificates/blob/main/TripleTen%20BIA.pdf)
 ### Program: TripleTen 
