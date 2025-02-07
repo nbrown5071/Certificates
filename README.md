@@ -15,4 +15,4 @@ Here you can find proof of the programs I have completed. In 2025 I decided to l
 ### Program: TripleTen 
 ### Year: 2025
 ### Skills: 
-Data Analysis Thinking • Problem Decomposition • Data Collection and Analysis • Data Cleaning • Data Transformation • Descriptive Statistics • Inferential Statistics • Time series analysis, clustering, & classification • Tableau • Tableau Story Point • Power BI • Excel • SQL joins • SQL subqueries • SQL window functions • SQL aggregationsStorytelling with Data • Performance Monitoring • KPI Tracking  • Benchmarking • Trend Analysis • Root Cause Analysis • Data Life Cycle
+Data Analysis Thinking • Problem Deconstruction • Data Collection and Analysis • Data Cleaning • Data Transformation • Descriptive Statistics • Inferential Statistics • Time series analysis, clustering, & classification • Tableau • Tableau Story Point • Power BI • Excel • SQL joins • SQL subqueries • SQL window functions • SQL aggregationsStorytelling with Data • Performance Monitoring • KPI Tracking  • Benchmarking • Trend Analysis • Root Cause Analysis • Data Life Cycle
