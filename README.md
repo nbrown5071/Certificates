@@ -1,7 +1,7 @@
 # Certificates
 Here you can find proof of the programs I have completed. In 2025 I decided to let go of my mistrust in digital storage. Why? Well, my computer of 10 years finally died and I lost a lot of project work and information. I'm still working to recover it. 
 
-## Business Analytics
+## Business Analytics[https://github.com/nbrown5071/Certificates/blob/main/Udacity%20Business%20Analytics.pdf](https://github.com/nbrown5071/Certificates/blob/main/Udacity%20Business%20Analytics.pdf)
 ### Program: Udacity 
 ### Year 2024
 ### Skills: 
