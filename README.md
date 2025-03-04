@@ -12,3 +12,9 @@ Here you can find proof of the programs I have completed. In 2025 I decided to l
 ### Year: 2025
 ### Skills: 
 Data Analysis Thinking • Problem Deconstruction • Data Collection and Analysis • Data Cleaning • Data Transformation • Descriptive Statistics • Inferential Statistics • Time series analysis, clustering, & classification • Tableau • Tableau Story Point • Power BI • Excel • SQL joins • SQL subqueries • SQL window functions • SQL aggregationsStorytelling with Data • Performance Monitoring • KPI Tracking  • Benchmarking • Trend Analysis • Root Cause Analysis • Data Life Cycle
+
+## [Agile Methodologies: Deadlines](https://github.com/nbrown5071/Certificates/blob/main/CertificateOfCompletion_How%20to%20Get%20Things%20Done%20Ahead%20of%20Deadlines.pdf)
+### Program: LinkedIn Learning 
+### Year: 2025
+### Skills:
+Deadline Management • Teamwork 
